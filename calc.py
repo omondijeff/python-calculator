@@ -5,7 +5,7 @@ from math import factorial
 
 
 root = Tk()
-root.title('Calculator')
+root.title('Simple Python Calculator')
 
 #This keeps track of current position on the input text field
 i = 0
